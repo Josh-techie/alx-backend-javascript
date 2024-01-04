@@ -1,32 +1,11 @@
 {
-  "name": "alx-backend-javascript",
-  "version": "1.0.0",
-  "description": "Backend JS for ALX",
-  "main": "0-main.js",
-  "type": "module",
   "scripts": {
     "lint": "./node_modules/.bin/eslint",
     "check-lint": "lint [0-9]*.js",
     "dev": "npx babel-node",
     "test": "jest",
-    "full-test": "./node_modules/.bin/eslint [0-9]*.js && jest",
-    "start": "node"
+    "full-test": "./node_modules/.bin/eslint [0-9]*.js && jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Josh-techie/alx-backend-javascript.git"
-  },
-  "keywords": [
-    "js",
-    "backend",
-    "alx"
-  ],
-  "author": "Youssef Abouyahia",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Josh-techie/alx-backend-javascript/issues"
-  },
-  "homepage": "https://github.com/Josh-techie/alx-backend-javascript#readme",
   "devDependencies": {
     "@babel/core": "^7.6.0",
     "@babel/node": "^7.8.0",
