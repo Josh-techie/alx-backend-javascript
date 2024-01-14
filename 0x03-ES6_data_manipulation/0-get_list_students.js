@@ -5,7 +5,7 @@
 // James, id: 2, in Columbia
 // Serena, id: 5, in San Francisco
 
-function getListStudents() {
+export default function getListStudents() {
     return [
         { id: 1, firstname: 'Guillaume', location: 'San Francisco' },
         { id: 2, firstname: 'James', location: 'Columbia' },
@@ -13,5 +13,3 @@ function getListStudents() {
     ];
 }
 
-// Export the getListStudents function
-module.exports = getListStudents;
