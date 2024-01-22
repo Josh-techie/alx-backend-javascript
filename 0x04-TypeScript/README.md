@@ -4,6 +4,9 @@
 
 </div>
 
+<p align="center">
+<img src ="../Assets/Typescript.png">
+</p>
 
 ## Typescript
 
