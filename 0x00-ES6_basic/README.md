@@ -2,6 +2,7 @@
 <img src ="../Assets/ES6_Basic.png">
 </p>
 ----
+
 # ES6 Basics - JavaScript Data Manipulation
 
 - This project focuses on JavaScript and ES6, covering various aspects of data manipulation, including concepts such as software linters, JavaScript programming, and ECMAScript 2015 (ES6). The project is part of the ALX Africa Intranet Curriculum, specifically in the ES6 Basics module.
