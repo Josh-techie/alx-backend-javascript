@@ -26,62 +26,62 @@
 ### 1. Block Scope
 
 - Given var and hoisting, modify variables inside a function to avoid overwriting.
-  - Redirect to file: `1-block-scoped.js`
+  - Redirect to file: [1-block-scoped.js](./1-block-scoped.js)
 
 ### 2. Arrow functions
 
 - Rewrite a standard function using ES6’s arrow syntax.
-  - Redirect to file: `2-arrow.js`
+  - Redirect to file: [2-arrow.js](./2-arrow.js)
 
 ### 3. Parameter defaults
 
 - Condense a function's internals to 1 line using default parameter values.
-  - Redirect to file: `3-default-parameter.js`
+  - Redirect to file: [3-default-parameter.js](./3-default-parameter.js)
 
 ### 4. Rest parameter syntax for functions
 
 - Modify a function to return the number of arguments passed to it using rest parameter syntax.
-  - Redirect to file: `4-rest-parameter.js`
+  - Redirect to file: [4-rest-parameter.js](./4-rest-parameter.js)
 
 ### 5. The wonders of spread syntax
 
 - Using spread syntax, concatenate 2 arrays and each character of a string in a single line.
-  - Redirect to file: `5-spread-operator.js`
+  - Redirect to file: [5-spread-operator.js](./5-spread-operator.js)
 
 ### 6. Take advantage of template literals
 
 - Rewrite a return statement to use a template literal for variable substitution.
-  - Redirect to file: `6-string-interpolation.js`
+  - Redirect to file: [6-string-interpolation.js](./6-string-interpolation.js)
 
 ### 7. Object property value shorthand syntax
 
 - Modify a function's budget object to use key names directly.
-  - Redirect to file: `7-getBudgetObject.js`
+  - Redirect to file: [7-getBudgetObject.js](./7-getBudgetObject.js)
 
 ### 8. No need to create empty objects before adding in properties
 
 - Rewrite a function to use ES6 computed property names on the budget object.
-  - Redirect to file: `8-getBudgetCurrentYear.js`
+  - Redirect to file: [8-getBudgetCurrentYear.js](./8-getBudgetCurrentYear.js)
 
 ### 9. ES6 method properties
 
 - Rewrite a function to use ES6 method properties in the fullBudget object.
-  - Redirect to file: `9-getFullBudget.js`
+  - Redirect to file: [9-getFullBudget.js](./9-getFullBudget.js)
 
 ### 10. For...of Loops
 
 - Rewrite a function to use ES6’s for...of operator.
-  - Redirect to file: `10-loops.js`
+  - Redirect to file: [10-loops.js](./10-loops.js)
 
 ### 11. Iterator
 
 - Write a function to create an object with departmentName and employees.
-  - Redirect to file: `11-createEmployeesObject.js`
+  - Redirect to file: [11-createEmployeesObject.js](./11-createEmployeesObject.js)
 
 ### 12. Let's create a report object
 
 - Write a function to create a report object based on the previous employeesList function.
-  - Redirect to file: `12-createReportObject.js`
+  - Redirect to file: [12-createReportObject.js](./12-createReportObject.js)
 
 ---
 
