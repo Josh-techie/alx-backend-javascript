@@ -1,9 +1,3 @@
-<div style="text-align: center;">
-
-![Typescript-Task](../Assets/Typescript.png)
-
-</div>
-
 <p align="center">
 <img src ="../Assets/Typescript.png">
 </p>
