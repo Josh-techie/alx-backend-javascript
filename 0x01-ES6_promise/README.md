@@ -6,9 +6,16 @@
 
 ## ES6 Promises:
 
-- This project.....
+- This project is designed to enhance your understanding and proficiency in handling asynchronous operations in JavaScript using ES6 Promises. The project emphasizes key concepts such as Promises, then, resolve, catch methods, the every method of the Promise object, error handling with throw/try, the await operator, and the usage of async functions.
 
 ## Ressources:
+
+- [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+- [JavaScript Promise: An introduction](https://web.dev/promises/)
+- [Await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await)
+- [Async](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
+- [Throw / Try](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch)
+
 
 ### Advanced to epxlore soon.....
 
