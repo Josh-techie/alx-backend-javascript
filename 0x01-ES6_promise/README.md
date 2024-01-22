@@ -16,8 +16,9 @@
 - [Async](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
 - [Throw / Try](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch)
 
+---
 
-### Advanced to epxlore soon.....
+## Tasks:
 
 0. **Keep every promise you make and only make promises you can keep**: Return a Promise using the following prototype function `getResponseFromAPI()`
 
@@ -67,7 +68,7 @@
 
 ---
 
-## Author
+## Author:
 
 - [`@Josh-techie`]() | Software Engineer Student
 
