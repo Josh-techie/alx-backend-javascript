@@ -2,9 +2,13 @@
 <img src ="../Assets/Typescript.png">
 </p>
 
+----
+
 ## Typescript
 
 TypeScript is a powerful superset of JavaScript that adds static typing to the language. Developed and maintained by **Microsoft**, TypeScript enhances JavaScript by introducing features such as static types, interfaces, and advanced tooling. It aims to improve code maintainability, catch errors during development, and provide a more structured approach to building large-scale applications.
+
+----
 
 ## Ressources:
 
@@ -14,6 +18,8 @@ TypeScript is a powerful superset of JavaScript that adds static typing to the l
 # Typescript Project: ALX Africa Intranet
 
 This project focuses on learning and implementing TypeScript concepts. The curriculum includes various tasks, each building on the previous one.
+
+----
 
 ## Curriculum Overview:
 
@@ -70,6 +76,8 @@ This project focuses on learning and implementing TypeScript concepts. The curri
   Each function takes two arguments `subject1` and `subject2` sumMajorCredits returns MajorCredits value and sumMinorCredits returns MinorCredits value
 
   - Redirect to file: [0x04-TypeScript/task_5/js/main.ts](./0x04-TypeScript/task_5/js/main.ts)
+
+----
 
 ## Author
 
