@@ -1,5 +1,5 @@
 <p align="center">
-<img src ="../Assets/ES6_classes.jpg">
+<img src ="../Assets/ES6_Classes.jpg">
 </p>
 
 ---
@@ -20,44 +20,38 @@ The project is organized into different tasks, each addressing specific requirem
 
 ### Tasks
 
-1. **ClassRoom (Task 0)**
+1. **ClassRoom**: Implement a class named ClassRoom with a specified attribute.
+   - Redirect to file: [0-classroom.js](./0-classroom.js)
 
-   - Implement a class named ClassRoom with a specified attribute.
+2. **Initialize ClassRooms**: Import the ClassRoom class and implement a function to initialize an array of ClassRoom objects with specific sizes.
+   - Redirect to file: [1-make_classrooms.js](./1-make_classrooms.js)
 
-2. **Initialize ClassRooms (Task 1)**
+3. **HolbertonCourse**: Implement a class named HolbertonCourse with constructor attributes, getters, and setters.
+   - Redirect to file: [2-hbtn_course.js](./2-hbtn_course.js)
 
-   - Import the ClassRoom class and implement a function to initialize an array of ClassRoom objects with specific sizes.
+4. **Currency**: Implement a class named Currency with attributes, getters, setters, and a method to display the full currency.
+   - Redirect to file: [3-currency.js](./3-currency.js)
 
-3. **HolbertonCourse (Task 2)**
+5. **Pricing**: Import the Currency class and implement a Pricing class with constructor attributes, getters, setters, and methods.
+   - Redirect to file: [4-pricing.js](./4-pricing.js)
 
-   - Implement a class named HolbertonCourse with constructor attributes, getters, and setters.
+6. **Building**: Implement an abstract class named Building with constructor attributes and a requirement for subclasses to implement a specific method.
+   - Redirect to file: [5-building.js](./5-building.js)
 
-4. **Currency (Task 3)**
+7. **SkyHighBuilding**:  Import the Building class and implement a subclass named SkyHighBuilding with additional attributes and a method override.
+   - Redirect to file: [6-sky_high.js](./6-sky_high.js)
 
-   - Implement a class named Currency with attributes, getters, setters, and a method to display the full currency.
+8. **Airport**: Implement a class named Airport with constructor attributes and a customized toString method.
+   - Redirect to file: [7-airport.js](./7-airport.js)
 
-5. **Pricing (Task 4)**
+9. **HolbertonClass**: Implement a class named HolbertonClass with constructor attributes and support for casting to Number or String.
+   - Redirect to file: [8-hbtn_class.js](./8-hbtn_class.js)
 
-   - Import the Currency class and implement a Pricing class with constructor attributes, getters, setters, and methods.
+10. **Car**: Implement a class named Car with constructor attributes and a method to clone an object.
+   - Redirect to file: [9-hoisting.js](./9-hoisting.js)
 
-6. **Building (Task 5)**
+### Advanced Tasks:
 
-   - Implement an abstract class named Building with constructor attributes and a requirement for subclasses to implement a specific method.
-
-7. **SkyHighBuilding (Task 6)**
-
-   - Import the Building class and implement a subclass named SkyHighBuilding with additional attributes and a method override.
-
-8. **Airport (Task 7)**
-
-   - Implement a class named Airport with constructor attributes and a customized toString method.
-
-9. **HolbertonClass (Task 8)**
-
-   - Implement a class named HolbertonClass with constructor attributes and support for casting to Number or String.
-
-10. **Car (Task 10)**
-    - Implement a class named Car with constructor attributes and a method to clone an object.
 
 ---
 
@@ -70,10 +64,29 @@ The project is organized into different tasks, each addressing specific requirem
 - Lint your code using `npm run lint`.
 - Verify the entire project using `npm run full-test`.
 
+---
+
 ## Contributing
 
 If you have suggestions or improvements, feel free to open an issue or create a pull request. Contributions are welcome!
 
-## License
+---
 
-This project is licensed under the [MIT License](LICENSE).
+## Author
+
+- [`@Josh-techie`]() | Software Engineer Student
+
+  > Reach out to me if you need any help or have any questions.
+
+  <a href="mailto:youssef.abouyahia@e-polytechnique.ma">
+  	<img alt="Feel free to contact me" src="https://img.shields.io/badge/-Ask_me_anything-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:youssef.abouyahia@e-polytechnique.ma&color=3d85c6" />
+  </a>
+  <span> | </span>
+    <a href="https://www.linkedin.com/in/youssef-abouyahia/">
+        <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youssef-abouyahia/" />
+    </a>
+    <span> | </span>
+    <a href="https://twitter.com/JoesephAb">
+        <img alt="Twitter Profile" src="https://img.shields.io/badge/-Twitter-0072b1?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/JoesephAb&color=1DA1F2" />
+    </a>
+
