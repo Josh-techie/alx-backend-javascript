@@ -1,14 +1,24 @@
+<p align="center">
+<img src ="../Assets/ES6_classes.jpg">
+</p>
+
+---
+
 # ALX Backend JavaScript - ES6 Classes Project
 
 ## Overview
 
 This repository contains the solution to the ALX Africa Intranet project on ES6 classes in JavaScript. The project focuses on understanding and implementing concepts related to Object-Oriented Programming (OOP) using ES6 classes.
 
+---
+
 ## Project Structure
 
 The project is organized into different tasks, each addressing specific requirements related to defining classes, adding methods, using getters and setters, implementing static methods, inheritance, and more.
 
-### Task Descriptions
+---
+
+### Tasks
 
 1. **ClassRoom (Task 0)**
 
@@ -48,6 +58,8 @@ The project is organized into different tasks, each addressing specific requirem
 
 10. **Car (Task 10)**
     - Implement a class named Car with constructor attributes and a method to clone an object.
+
+---
 
 ## Requirements and Setup
 
