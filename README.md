@@ -6,14 +6,15 @@
 	Backend ALX
 </h1>
 
->Mastering JavaScript, been wanting to get on this. It's going to be FUN !!.
+> Mastering JavaScript, been wanting to get on this. It's going to be FUN !!.
 
-----
+---
 
 ## About
-- This repository is a comprehensive compilation of JavaScript and TypeScript projects completed as part of the [ALX Africa](https://www.alxafrica.com/) Full Stack Software Engineering course in collaboration with [Holberton School](https://www.holbertonschool.com/).
 
-----
+- This repository is a comprehensive compilation of JavaScript and TypeScript projects completed as part of the [ALX Africa](https://www.alxafrica.com/) Full Stack Software Engineering course (Short Specializations 3 months long of the backend) in collaboration with [Holberton School](https://www.holbertonschool.com/) the projects cover a 3-month-long specialized backend program.
+
+---
 
 ## Content table
 
@@ -23,7 +24,7 @@
 - [0x03](./0x03-ES6_data_manipulation) : ES6 data manipulation.
 - [0x04](./0x04-TypeScript) : Typescript.
 
-----
+---
 
 ## Author
 
@@ -42,4 +43,3 @@
     <a href="https://twitter.com/JoesephAb">
         <img alt="Twitter Profile" src="https://img.shields.io/badge/-Twitter-0072b1?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/JoesephAb&color=1DA1F2" />
     </a>
-
