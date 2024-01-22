@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-	Backend ALX
+	Backend JS
 </h1>
 
 > Mastering JavaScript, been wanting to get on this. It's going to be FUN !!.
