@@ -1,4 +1,9 @@
+<div style="text-align: center;">
+
 ![Typescript-Task](../Assets/Typescript.png)
+
+</div>
+
 
 ## Typescript
 
