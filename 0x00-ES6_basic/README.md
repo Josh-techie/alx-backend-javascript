@@ -1,6 +1,7 @@
 <p align="center">
 <img src ="../Assets/ES6_Basic.png">
 </p>
+
 ----
 
 # ES6 Basics - JavaScript Data Manipulation
