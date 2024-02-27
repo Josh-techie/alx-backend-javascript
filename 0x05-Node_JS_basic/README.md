@@ -1,5 +1,5 @@
 <p align="center">
-<img src ="https://www.bing.com/images/blob?bcid=qHKaA0CLLbkGAiOH6KN5u4zeA2Bv.....4g">
+<img src ="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F029a1497-45bd-4b48-af71-c2ab8a918091%2F7ecfdb21-d985-4ba4-8d36-367a6409584e%2F82692897e15d9f03256f.jpg?table=block&spaceId=029a1497-45bd-4b48-af71-c2ab8a918091&id=63581603-821f-41e4-bdce-f4bb66b24360&width=2000&userId=9d08c749-75eb-439d-ad10-2a83e114a53b&cache=v2">
 </p>
 
 ---
