@@ -21,6 +21,13 @@
 
 ---
 
+<h2> Requirements</h2>
+
+- You will need a `[database.csv](./database.csv)` file, where we will store some values, to simulate a database.
+- `package.json`: It specifies packages (dependencies and devDependencies) required for testing, linting, running the server, and other development tasks. Running npm install installs these dependencies.
+- `babel.config.js`: In this project, it is used to preset the environment for Node.js so that you can use modern JavaScript syntax, including ES6 features.
+- `.eslintrc.js`: contains ESLint configurations for the project, specifying rules for code style and potential errors. It helps maintain a consistent and high-quality codebase by enforcing coding standards.
+
 <h2> Tasks </h2>
 
 ---
