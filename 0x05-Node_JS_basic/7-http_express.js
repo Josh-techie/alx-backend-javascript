@@ -5,11 +5,17 @@ const app = express();
 const PORT = 1245;
 const DB_FILE = process.argv.length > 2 ? process.argv[2] : "";
 
+/**
+ * Counts the students in a CSV data file.
+ * @param {String} dataPath The path to the CSV data file.
+ * @author Bezaleel Olakunori <https://github.com/B3zaleel>
+ */
 const countStudents = (dataPath) =>
   new Promise((resolve, reject) => {
     if (!dataPath) {
       reject(new Error("Cannot load the database"));
-    } else {
+    }
+    if (dataPath) {
       fs.readFile(dataPath, (err, data) => {
         if (err) {
           reject(new Error("Cannot load the database"));
@@ -72,23 +78,17 @@ app.get("/students", (_, res) => {
       responseParts.push(report);
       const responseText = responseParts.join("\n");
       res.setHeader("Content-Type", "text/plain");
-      res.setHeader(
-        "Content-Length",
-        Buffer.from(responseText, "utf-8").length
-      );
+      res.setHeader("Content-Length", responseText.length);
       res.statusCode = 200;
-      res.write(Buffer.from(responseText, "utf-8"));
+      res.write(Buffer.from(responseText));
     })
     .catch((err) => {
       responseParts.push(err instanceof Error ? err.message : err.toString());
       const responseText = responseParts.join("\n");
       res.setHeader("Content-Type", "text/plain");
-      res.setHeader(
-        "Content-Length",
-        Buffer.from(responseText, "utf-8").length
-      );
+      res.setHeader("Content-Length", responseText.length);
       res.statusCode = 200;
-      res.write(Buffer.from(responseText, "utf-8"));
+      res.write(Buffer.from(responseText));
     });
 });
 
