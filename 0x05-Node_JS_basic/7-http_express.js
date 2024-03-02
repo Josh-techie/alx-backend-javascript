@@ -9,8 +9,7 @@ const countStudents = (dataPath) =>
   new Promise((resolve, reject) => {
     if (!dataPath) {
       reject(new Error("Cannot load the database"));
-    }
-    if (dataPath) {
+    } else {
       fs.readFile(dataPath, (err, data) => {
         if (err) {
           reject(new Error("Cannot load the database"));
@@ -73,17 +72,23 @@ app.get("/students", (_, res) => {
       responseParts.push(report);
       const responseText = responseParts.join("\n");
       res.setHeader("Content-Type", "text/plain");
-      res.setHeader("Content-Length", responseText.length);
+      res.setHeader(
+        "Content-Length",
+        Buffer.from(responseText, "utf-8").length
+      );
       res.statusCode = 200;
-      res.write(Buffer.from(responseText));
+      res.write(Buffer.from(responseText, "utf-8"));
     })
     .catch((err) => {
       responseParts.push(err instanceof Error ? err.message : err.toString());
       const responseText = responseParts.join("\n");
       res.setHeader("Content-Type", "text/plain");
-      res.setHeader("Content-Length", responseText.length);
+      res.setHeader(
+        "Content-Length",
+        Buffer.from(responseText, "utf-8").length
+      );
       res.statusCode = 200;
-      res.write(Buffer.from(responseText));
+      res.write(Buffer.from(responseText, "utf-8"));
     });
 });
 
