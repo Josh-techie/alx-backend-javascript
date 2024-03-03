@@ -1,5 +1,5 @@
 <p align="center">
-<img src ="../Assets/ES6_Promise.jpg">
+<img src ="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/75862d67ca51a042003c.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240303%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240303T150525Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=f745c1f9f871c48e953dc7a63b3192c45efa054d04d41cd62597f5eb0b9be764">
 </p>
 
 ---
