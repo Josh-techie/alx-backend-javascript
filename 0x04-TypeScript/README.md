@@ -1,14 +1,14 @@
 <p align="center">
-<img src ="../Assets/Typescript.png">
+<img src ="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F029a1497-45bd-4b48-af71-c2ab8a918091%2Fde063ba0-3dae-4a87-bca6-8b9f997353bf%2Fbaea85b5e9a9fb5c36ec.png?table=block&id=eb2f61c5-65a3-4e5e-9653-b61a576e283d&spaceId=029a1497-45bd-4b48-af71-c2ab8a918091&width=2000&userId=9d08c749-75eb-439d-ad10-2a83e114a53b&cache=v2">
 </p>
 
-----
+---
 
 ## Typescript
 
 TypeScript is a powerful superset of JavaScript that adds static typing to the language. Developed and maintained by **Microsoft**, TypeScript enhances JavaScript by introducing features such as static types, interfaces, and advanced tooling. It aims to improve code maintainability, catch errors during development, and provide a more structured approach to building large-scale applications.
 
-----
+---
 
 ## Ressources:
 
@@ -19,7 +19,7 @@ TypeScript is a powerful superset of JavaScript that adds static typing to the l
 
 This project focuses on learning and implementing TypeScript concepts. The curriculum includes various tasks, each building on the previous one.
 
-----
+---
 
 ## Curriculum Overview:
 
@@ -77,7 +77,7 @@ This project focuses on learning and implementing TypeScript concepts. The curri
 
   - Redirect to file: [0x04-TypeScript/task_5/js/main.ts](./0x04-TypeScript/task_5/js/main.ts)
 
-----
+---
 
 ## Author
 
