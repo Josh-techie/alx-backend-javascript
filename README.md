@@ -23,6 +23,8 @@
 - [0x02](./0x02-ES6_classes) : ES6 classes.
 - [0x03](./0x03-ES6_data_manipulation) : ES6 data manipulation.
 - [0x04](./0x04-TypeScript) : Typescript.
+- [0x05](./0x05-Node_JS_basic) : Node JS Basics.
+- [0x06](./0x06-unittests_in_js) : Unitest in JS.
 
 ---
 
