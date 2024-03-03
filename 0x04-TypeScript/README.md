@@ -81,7 +81,7 @@ This project focuses on learning and implementing TypeScript concepts. The curri
 
 ## Author
 
-- [`@Josh-techie`]() | Software Engineer Student
+- [`@Josh-techie`](https://github.com/Josh-techie) | Software Engineer Student
 
   > Reach out to me if you need any help or have any questions.
 
