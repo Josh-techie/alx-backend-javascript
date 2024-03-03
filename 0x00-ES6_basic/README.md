@@ -1,5 +1,5 @@
 <p align="center">
-<img src ="../Assets/ES6_Basic.png">
+<img src ="https://user-images.githubusercontent.com/33351058/143454973-819036e2-529f-41a7-8222-c39e981ada5b.png">
 </p>
 
 ---
