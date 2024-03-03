@@ -1,5 +1,5 @@
 <p align="center">
-<img src ="../Assets/ES6_Classes.jpg">
+<img src ="https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F029a1497-45bd-4b48-af71-c2ab8a918091%2F5d1049fd-c472-445a-8dbe-b4fe84ce47f7%2F817248fb77fb5c2cef3f.jpg?table=block&id=4bae649f-3ae6-4816-af02-f71436a77659&spaceId=029a1497-45bd-4b48-af71-c2ab8a918091&width=2000&userId=9d08c749-75eb-439d-ad10-2a83e114a53b&cache=v2">
 </p>
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-## Project Structure
+<h2> Project Structure </h2>
 
 - The project is organized into different tasks, each addressing specific requirements related to defining classes, adding methods, using getters and setters, implementing static methods, inheritance, and more.
   - GitHub repository: `alx-backend-javascript`
